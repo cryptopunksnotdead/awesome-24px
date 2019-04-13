@@ -59,7 +59,7 @@ Account.index( :allowances ) #=> 1
 ```
 
 Note: The `update` method (or the `<<` alias)
-ALWAYS returns new record.
+ALWAYS returns a new record.
 
 ``` ruby
 account1a.update( balance: 20 )     #=> [20, {}]
@@ -69,7 +69,7 @@ account1a.update( { balance: 30 } ) #=> [30, {}]
 account1a << { balance: 20 }        #=> [20, {}]
 account1a << { balance: 30 }        #=> [30, {}]
 
-account1b =  account1a.update( balance: 40, allowances: { 'Alice': 20 } )
+account1b = account1a.update( balance: 40, allowances: { 'Alice': 20 } )
 account1b.balance                   #=> 40
 account1b.allowances                #=> { 'Alice': 20 }
 account1b.values                    #=> [40, { 'Alice': 20 } ]
@@ -79,7 +79,27 @@ account1b.values                    #=> [40, { 'Alice': 20 } ]
 And so on and so forth.
 
 
+## Bonus - Record Update Language Syntax Pragmas - `{...}` and `={...}`
 
+Using the Record Update Pragma. Lets you
+
+``` ruby
+account1a {... balance: 20 }     #=> [20, {}]
+account1a {... balance: 30 }     #=> [30, {}]
+
+account1a = {... balance: 40, allowances: { 'Alice': 20 }}
+```
+
+turn into:
+
+``` ruby
+account1a.update( balance: 20 )     #=> [20, {}]
+account1a.update( balance: 30 )     #=> [30, {}]
+
+account1a = account1a.update( balance: 40, allowances: { 'Alice': 20 } )
+```
+
+See [Language Syntax Pragmas - Let's Evolve Ruby by Experimenting in a Pragma(tic) Way](https://github.com/s6ruby/pragmas) for more.
 
 
 ## License
