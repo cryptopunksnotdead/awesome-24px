@@ -114,7 +114,7 @@ class TestAccount < MiniTest::Test
 
     account2 = Account3.new( 2, {} )
     assert_equal Account3.new( 2, {} ), account2
-    assert_equal [2, {}], account2
+    assert_equal [2, {}], account2.values
   end
 
 end  # class TestAccount

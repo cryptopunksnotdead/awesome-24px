@@ -4,6 +4,7 @@ Manifest.txt
 README.md
 Rakefile
 lib/records.rb
+lib/records/record.rb
 lib/records/version.rb
 test/helper.rb
 test/test_account.rb
