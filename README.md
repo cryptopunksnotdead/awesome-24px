@@ -99,7 +99,7 @@ account1a.update( balance: 30 )     #=> [30, {}]
 account1a = account1a.update( balance: 40, allowances: { 'Alice': 20 } )
 ```
 
-See [Language Syntax Pragmas - Let's Evolve Ruby by Experimenting in a Pragma(tic) Way](https://github.com/s6ruby/pragmas) for more.
+See [Language Syntax Pragmas - Let's Evolve Ruby by Experimenting in a Pragma(tic) Way »](https://github.com/s6ruby/pragmas) for more.
 
 
 ## License
