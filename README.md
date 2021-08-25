@@ -13,7 +13,7 @@ All 10 000 punks from the original LarvaLabs series. Download [**punks.png**](ht
 
 <!-- break -->
 
-All Star Collectios
+All Star Collections / Selections
 
 - 9 Alien series. Download [**aliens.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/aliens.png).
 - Ape series. Download [**apes.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/apes.png).
@@ -21,8 +21,9 @@ All Star Collectios
 - Blondies series. Download [**blondies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/blondies.png).
 - Mohawk Nation series. Download [**mohawks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/mohawks.png).
 
-
 <!-- break -->
+
+Punkverse
 
 1000 Front-Facing Punk series. Download [**frontpunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/frontpunks.png).
 
@@ -33,6 +34,9 @@ All Star Collectios
 100 Alien Clan series. Download [**alienclan.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/alienclan.png) (~10k).
 
 
+40 All Star Cool Blue Aliens (Original+More+Expansion) series. Download [**aliens.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens-randomized.png).
+- 40 All Star Cyber Green Aliens series. Download [**aliens_green.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_green.png).
+- 40 All Start Burning Red Aliens series. Download [**aliens_red.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_red.png).
 
 
 ## Rocks
