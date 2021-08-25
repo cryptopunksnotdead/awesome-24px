@@ -11,8 +11,14 @@ All 10 000 punks from the original LarvaLabs series. Download [**punks.png**](ht
 - Sepia Vintage series. Download [**punks_sepia.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/grayscale/i/punks_sepia.png) (~800k).
 - Phunks (Looking-Left) series. Download [**phunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/phunks.png) (~800k).
 
+<!-- break -->
 
-1000 More Punks series. New attributes, new species. Download [**morepunks.png**]() (https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/morepunks.png).
+1000 More Punks series. New attributes, new species. Download [**morepunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/morepunks.png) (~200k).
+
+10000 Expansion Punk series. Download [**expansionpunk.png**](https://expansionpunks.com/provenance/expansionpunks.png) (~800k).
+
+100 Alien Clan series. Download [**alienclan.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/alienclan.png) (~10k).
+
 
 
 
