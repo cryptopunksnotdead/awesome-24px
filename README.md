@@ -15,17 +15,17 @@ All 10 000 punks from the original LarvaLabs series. Download [**punks.png**](ht
 
 All Star Collections / Selections
 
-- 9 Alien series. Download [**aliens.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/aliens.png).
-- Ape series. Download [**apes.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/apes.png).
-- Zombies series. Download [**zombies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/zombies.png).
-- Blondies series. Download [**blondies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/blondies.png).
-- Mohawk Nation series. Download [**mohawks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/mohawks.png).
+- 9 Alien series. Download [**aliens.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/aliens.png) (~1k).
+- Ape series. Download [**apes.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/apes.png) (~2k).
+- Zombies series. Download [**zombies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/zombies.png) (~5k).
+- Blondies series. Download [**blondies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/blondies.png) (~30k).
+- Mohawk Nation series. Download [**mohawks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/mohawks.png) (~80k).
 
 <!-- break -->
 
 Punkverse
 
-1000 Front-Facing Punk series. Download [**frontpunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/frontpunks.png).
+1000 Front-Facing Punk series. Download [**frontpunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/frontpunks.png) (~80k).
 
 1000 More Punks series. New attributes, new species. Download [**morepunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/morepunks.png) (~200k).
 
@@ -34,9 +34,9 @@ Punkverse
 100 Alien Clan series. Download [**alienclan.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/alienclan.png) (~10k).
 
 
-40 All Star Cool Blue Aliens (Original+More+Expansion) series. Download [**aliens.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens-randomized.png).
-- 40 All Star Cyber Green Aliens series. Download [**aliens_green.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_green.png).
-- 40 All Start Burning Red Aliens series. Download [**aliens_red.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_red.png).
+40 All Star Cool Blue Aliens (Original+More+Expansion) series. Download [**aliens.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens-randomized.png) (~5k).
+- 40 All Star Cyber Green Aliens series. Download [**aliens_green.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_green.png) (~5k).
+- 40 All Start Burning Red Aliens series. Download [**aliens_red.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_red.png) (~5k).
 
 
 ## Rocks
@@ -46,4 +46,4 @@ All 100 stones from the 24px rocks series. Download  [**punkrocks.png**](https:/
 
 ## Cats
 
-All 25 440 mooncats from the MoonCatRescue series (placed in a 24x24 canvas). Download [**mooncatrescue.png**](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/blob/master/i/mooncatrescue.png) (~ 6 MB).
+All 25 440 mooncats from the MoonCatRescue series (placed in a 24x24 canvas). Download [**mooncatrescue.png**](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/blob/master/i/mooncatrescue.png) (~6 MB).
