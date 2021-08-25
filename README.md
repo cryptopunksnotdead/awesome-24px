@@ -13,6 +13,19 @@ All 10 000 punks from the original LarvaLabs series. Download [**punks.png**](ht
 
 <!-- break -->
 
+All Star Collectios
+
+- 9 Alien series. Download [**aliens.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/aliens.png).
+- Ape series. Download [**apes.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/apes.png).
+- Zombies series. Download [**zombies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/zombies.png).
+- Blondies series. Download [**blondies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/blondies.png).
+- Mohawk Nation series. Download [**mohawks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/mohawks.png).
+
+
+<!-- break -->
+
+1000 Front-Facing Punk series. Download [**frontpunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/frontpunks.png).
+
 1000 More Punks series. New attributes, new species. Download [**morepunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/morepunks.png) (~200k).
 
 10000 Expansion Punk series. Download [**expansionpunk.png**](https://expansionpunks.com/provenance/expansionpunks.png) (~800k).
