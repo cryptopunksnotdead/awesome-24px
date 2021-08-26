@@ -43,17 +43,17 @@ Punkverse
 
 ## Rocks
 
-All 100 stones from the 24px rocks series. Download  [**punkrocks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/punkrocks.png) ![](i/punkrocks-strip.png)   (~20k). Yes, freebie stones!
+All 100 stones from the 24px rocks series. Download  ![](i/punkrocks-strip.png)  [**punkrocks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/punkrocks.png)  (~20k). Yes, freebie stones!
 
 
 ## Cats
 
-All 25 440 mooncats from the MoonCatRescue series (placed in a 24x24 canvas). Download [**mooncatrescue.png**](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/blob/master/i/mooncatrescue.png)  ![](i/mooncatrescue-strip.png)  (~6 MB).
+All 25 440 mooncats from the MoonCatRescue series (placed in a 24x24 canvas). Download ![](i/mooncatrescue-strip.png)  [**mooncatrescue.png**](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/blob/master/i/mooncatrescue.png) (~6 MB).
 
 
 
 ## Tulips
 
-101 Tulips series. Download [**tulips.png**](i/tulips.png)  ![](i/tulips-strip.png)   (~10k).
+101 Tulips series. Download ![](i/tulips-strip.png) [**tulips.png**](i/tulips.png) (~10k).
 
 
