@@ -27,16 +27,18 @@ Punkverse
 
 1000 Front-Facing Punk series.  ![](i/frontpunks-strip.png)    Download [**frontpunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/frontpunks.png) (~80k).
 
-1000 More Punks series. New attributes, new species. Download [**morepunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/morepunks.png) (~200k).
+1000 More Punks series. New attributes, new species.  ![](i/morepunks-strip.png)   Download [**morepunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/morepunks.png) (~200k).
 
-10000 Expansion Punk series. Download [**expansionpunk.png**](https://expansionpunks.com/provenance/expansionpunks.png) (~800k).
+10000 Expansion Punk series.  ![](i/expansionpunks-strip.png)   Download [**expansionpunk.png**](https://expansionpunks.com/provenance/expansionpunks.png) (~800k).
 
-100 Alien Clan series. Download [**alienclan.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/alienclan.png) (~10k).
+100 Alien Clan series.  ![](i/alienclan-strip.png)   Download [**alienclan.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/alienclan.png) (~10k).
 
 
-40 All Star Cool Blue Aliens (Original+More+Expansion) series. Download [**aliens.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens-randomized.png) (~5k).
-- 40 All Star Cyber Green Aliens series. Download [**aliens_green.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_green.png) (~5k).
-- 40 All Start Burning Red Aliens series. Download [**aliens_red.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_red.png) (~5k).
+40 All Star Cool Blue Aliens (Original+More+Expansion) series.  ![](i/aliens_blue-strip.png) Download [**aliens.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens-randomized.png) (~5k).
+- 40 All Star Cyber Green Aliens series.  ![](i/aliens_green-strip.png)   Download [**aliens_green.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_green.png) (~5k).
+- 40 All Start Burning Red Aliens series.  ![](i/aliens_red-strip.png)   Download [**aliens_red.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_red.png) (~5k).
+
+
 
 
 ## Rocks
