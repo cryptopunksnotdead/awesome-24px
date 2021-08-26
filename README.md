@@ -9,23 +9,23 @@ All 10 000 punks from the original LarvaLabs series.  ![](i/punks-strip.png)    
 
 - Grayscale series.  ![](i/punks_grayscale-strip.png) Download [**punks_grayscale.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/grayscale/i/punks_grayscale.png) (~800k).
 - Sepia Vintage series.  ![](i/punks_sepia-strip.png)  Download [**punks_sepia.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/grayscale/i/punks_sepia.png) (~800k).
-- Phunks (Looking-Left) series. Download [**phunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/phunks.png) (~800k).
+- Phunks (Looking-Left) series.   ![](i/phunks-strip.png)  Download [**phunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/phunks.png) (~800k).
 
 <!-- break -->
 
 All Star Collections / Selections
 
-- 9 Alien series. Download [**aliens.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/aliens.png) (~1k).
-- Ape series. Download [**apes.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/apes.png) (~2k).
-- Zombies series. Download [**zombies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/zombies.png) (~5k).
-- Blondies series. Download [**blondies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/blondies.png) (~30k).
-- Mohawk Nation series. Download [**mohawks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/mohawks.png) (~80k).
+- 9 Alien series.  ![](i/aliens-strip.png)   Download [**aliens.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/aliens.png) (~1k).
+- Ape series.   ![](i/apes-strip.png)   Download [**apes.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/apes.png) (~2k).
+- Zombies series.  ![](i/zombies-strip.png)    Download [**zombies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/zombies.png) (~5k).
+- Blondies series.   ![](i/blondies-strip.png)   Download [**blondies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/blondies.png) (~30k).
+- Mohawk Nation series.  ![](i/mohawks-strip.png)   Download [**mohawks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/mohawks.png) (~80k).
 
 <!-- break -->
 
 Punkverse
 
-1000 Front-Facing Punk series. Download [**frontpunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/frontpunks.png) (~80k).
+1000 Front-Facing Punk series.  ![](i/frontpunks-strip.png)    Download [**frontpunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/frontpunks.png) (~80k).
 
 1000 More Punks series. New attributes, new species. Download [**morepunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/morepunks.png) (~200k).
 
