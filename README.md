@@ -5,10 +5,10 @@
 
 ## Punks
 
-All 10 000 punks from the original LarvaLabs series. Download [**punks.png**](https://github.com/larvalabs/cryptopunks/blob/master/punks.png) (~800k).
+All 10 000 punks from the original LarvaLabs series.  ![](i/punks-strip.png)    Download [**punks.png**](https://github.com/larvalabs/cryptopunks/blob/master/punks.png) (~800k).
 
-- Grayscale series. Download [**punks_grayscale.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/grayscale/i/punks_grayscale.png) (~800k).
-- Sepia Vintage series. Download [**punks_sepia.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/grayscale/i/punks_sepia.png) (~800k).
+- Grayscale series.  ![](i/punks_grayscale-strip.png) Download [**punks_grayscale.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/grayscale/i/punks_grayscale.png) (~800k).
+- Sepia Vintage series.  ![](i/punks_sepia-strip.png)  Download [**punks_sepia.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/grayscale/i/punks_sepia.png) (~800k).
 - Phunks (Looking-Left) series. Download [**phunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/phunks.png) (~800k).
 
 <!-- break -->
