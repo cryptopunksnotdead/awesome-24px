@@ -34,26 +34,26 @@ Punkverse
 100 Alien Clan series.  ![](i/alienclan-strip.png)   Download [**alienclan.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/alienclan.png) (~10k).
 
 
-40 All Star Cool Blue Aliens (Original+More+Expansion) series.  ![](i/aliens_blue-strip.png) Download [**aliens.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens-randomized.png) (~5k).
-- 40 All Star Cyber Green Aliens series.  ![](i/aliens_green-strip.png)   Download [**aliens_green.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_green.png) (~5k).
-- 40 All Start Burning Red Aliens series.  ![](i/aliens_red-strip.png)   Download [**aliens_red.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_red.png) (~5k).
+40 All Star Cool Blue Aliens (Original+More+Expansion) series.  Download [**aliens.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens-randomized.png)   ![](i/aliens_blue-strip.png)  (~5k).
+- 40 All Star Cyber Green Aliens series.     Download [**aliens_green.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_green.png) ![](i/aliens_green-strip.png) (~5k).
+- 40 All Start Burning Red Aliens series.    Download [**aliens_red.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens_red.png) ![](i/aliens_red-strip.png)  (~5k).
 
 
 
 
 ## Rocks
 
-All 100 stones from the 24px rocks series. Download  [**punkrocks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/punkrocks.png) (~20k). Yes, freebie stones!
+All 100 stones from the 24px rocks series. Download  [**punkrocks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/punkrocks.png) ![](i/punkrocks-strip.png)   (~20k). Yes, freebie stones!
 
 
 ## Cats
 
-All 25 440 mooncats from the MoonCatRescue series (placed in a 24x24 canvas). Download [**mooncatrescue.png**](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/blob/master/i/mooncatrescue.png) (~6 MB).
+All 25 440 mooncats from the MoonCatRescue series (placed in a 24x24 canvas). Download [**mooncatrescue.png**](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/blob/master/i/mooncatrescue.png)  ![](i/mooncatrescue-strip.png)  (~6 MB).
 
 
 
 ## Tulips
 
-101 Tulips series. Download [**tulips.png**](i/tulips.png) (~10k).
+101 Tulips series. Download [**tulips.png**](i/tulips.png)  ![](i/tulips-strip.png)   (~10k).
 
 
