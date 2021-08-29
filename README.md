@@ -34,6 +34,8 @@ Punkverse
 
 10 000 Avalanche Punks series.    Download ![](i/avalanchepunks-strip.png) [**avalanchepunks.png**](collection/avalanchepunks.png) (~600k).
 
+1000 International Punks series.   Download ![](i/intlpunks-strip.png) [**intlpunks.png**](collection/intlpunks.png) (~200k).
+
 
 
 100 Alien Clan series.     Download ![](i/alienclan-strip.png) [**alienclan.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/alienclan.png) (~10k).
