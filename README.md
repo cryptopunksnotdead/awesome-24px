@@ -5,7 +5,7 @@
 
 ## Punks
 
-All 10 000 punks from the original LarvaLabs series.     Download ![](i/punks-strip.png) [**punks.png**](https://github.com/larvalabs/cryptopunks/blob/master/punks.png) (~800k).
+All 10 000 punks from the original LarvaLabs series.     Download ![](i/punks-strip.png) [**punks.png**](https://github.com/larvalabs/cryptopunks/blob/master/punks.png) (~800k).  Bonus: Attribute Meta Dataset - [**punks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/original/)
 
 - Grayscale series.   Download ![](i/punks_grayscale-strip.png) [**punks_grayscale.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/grayscale/i/punks_grayscale.png) (~800k).
 - Sepia Vintage series.    Download ![](i/punks_sepia-strip.png)  [**punks_sepia.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/grayscale/i/punks_sepia.png) (~800k).
@@ -26,11 +26,11 @@ All Star Collections / Selections
 
 Punkverse
 
-1000 Front-Facing Punk series.    Download ![](i/frontpunks-strip.png)   [**frontpunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/frontpunks.png) (~80k).
+1000 Front-Facing Punk series.    Download ![](i/frontpunks-strip.png)   [**frontpunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/frontpunks.png) (~80k).   Bonus: Attribute Meta Dataset - [**frontpunks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/front/)
 
-1000 More Punks series. New attributes, new species.     Download ![](i/morepunks-strip.png) [**morepunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/morepunks.png) (~200k).
+1000 More Punks series. New attributes, new species.     Download ![](i/morepunks-strip.png) [**morepunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/morepunks.png) (~200k).   Bonus: Attribute Meta Dataset - [**morepunks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/more/)
 
-10 000 Expansion Punk series.     Download ![](i/expansionpunks-strip.png) [**expansionpunks.png**](https://expansionpunks.com/provenance/expansionpunks.png) (~800k).
+10 000 Expansion Punk series.     Download ![](i/expansionpunks-strip.png) [**expansionpunks.png**](https://expansionpunks.com/provenance/expansionpunks.png) (~800k).  Bonus: Attribute Meta Dataset - [**expansionpunks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/expansion/)
 
 10 000 Avalanche Punks series.    Download ![](i/avalanchepunks-strip.png) [**avalanchepunks.png**](collection/avalanchepunks.png) (~600k).
 
@@ -38,7 +38,7 @@ Punkverse
 
 
 
-100 Alien Clan series.     Download ![](i/alienclan-strip.png) [**alienclan.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/alienclan.png) (~10k).
+100 Alien Clan series.     Download ![](i/alienclan-strip.png) [**alienclan.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/alienclan.png) (~10k).    Bonus: Attribute Meta Dataset - [**alienclan.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/alienclan/)
 
 
 40 All Star Cool Blue Aliens (Original+More+Expansion) series.  Download ![](i/aliens_blue-strip.png)  [**aliens.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens-randomized.png)  (~5k).
@@ -58,6 +58,7 @@ All 10 stones from the 24px punk rocks series. Download ![](i/punkrocks-strip.pn
 ## Cats
 
 All 25 440 mooncats from the MoonCatRescue series (placed in a 24x24 canvas). Download ![](i/mooncatrescue-strip.png)  [**mooncatrescue.png**](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/blob/master/i/mooncatrescue.png) (~6 MB).
+Bonus: Attribute Meta Dataset - [**mooncatrescue.csv**](https://github.com/cryptocopycats/mooncatrescue)
 
 
 All 9 990 cool cats from 24px series.  Download ![](i/coolcats-strip.png)  [**coolcats.png**](collection/coolcats.png) (~2.5 MB).
