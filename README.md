@@ -60,6 +60,9 @@ All 10 stones from the 24px punk rocks series. Download ![](i/punkrocks-strip.pn
 All 25 440 mooncats from the MoonCatRescue series (placed in a 24x24 canvas). Download ![](i/mooncatrescue-strip.png)  [**mooncatrescue.png**](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/blob/master/i/mooncatrescue.png) (~6 MB).
 
 
+All 9 990 cool cats from 24px series.  Download ![](i/coolcats-strip.png)  [**coolcats.png**](collection/coolcats.png) (~2.5 MB).
+
+
 
 ## Dogs
 
