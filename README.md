@@ -56,12 +56,11 @@ All 9 900 bored apes from the weape24 series.  Download ![](i/boredapes-strip.pn
 
 ## Cats
 
+All 9 900 cool cats from 24px series.  Download ![](i/coolcats-strip.png)  [**coolcats.png**](collection/coolcats.png) (~2.5 MB).
+
 All 25 440 mooncats from the MoonCatRescue series (placed in a 24x24 canvas). Download ![](i/mooncatrescue-strip.png)  [**mooncatrescue.png**](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/blob/master/i/mooncatrescue.png) (~6 MB) ++
 Bonus:  [**mooncatrescue.csv**](https://github.com/cryptocopycats/mooncatrescue)
 attribute meta dataset.
-
-All 9 900 cool cats from 24px series.  Download ![](i/coolcats-strip.png)  [**coolcats.png**](collection/coolcats.png) (~2.5 MB).
-
 
 
 ## Dogs
