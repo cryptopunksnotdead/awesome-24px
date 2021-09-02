@@ -50,7 +50,7 @@ Punkverse
 
 ## Apes
 
-All 9 990 bored apes from the weape24 series.  Download ![](i/boredapes-strip.png)  [**boredapes.png**](collection/boredapes.png) (~3.5 MB).
+All 9 900 bored apes from the weape24 series.  Download ![](i/boredapes-strip.png)  [**boredapes.png**](collection/boredapes.png) (~3.5 MB).
 
 
 
@@ -60,7 +60,7 @@ All 25 440 mooncats from the MoonCatRescue series (placed in a 24x24 canvas). Do
 Bonus:  [**mooncatrescue.csv**](https://github.com/cryptocopycats/mooncatrescue)
 attribute meta dataset.
 
-All 9 990 cool cats from 24px series.  Download ![](i/coolcats-strip.png)  [**coolcats.png**](collection/coolcats.png) (~2.5 MB).
+All 9 900 cool cats from 24px series.  Download ![](i/coolcats-strip.png)  [**coolcats.png**](collection/coolcats.png) (~2.5 MB).
 
 
 
