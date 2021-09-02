@@ -48,11 +48,10 @@ Punkverse
 
 
 
-## Rocks
+## Apes
 
-All 100 stones from the 24px rocks series. Download  ![](i/rocks-strip.png)  [**rocks.png**](collection/rocks.png) (~20k). Yes, freebie stones!
+All 9 990 bored apes from the weape24 series.  Download ![](i/boredapes-strip.png)  [**boredapes.png**](collection/boredapes.png) (~3.5 MB).
 
-All 10 stones from the 24px punk rocks series. Download ![](i/punkrocks-strip.png)  [**punkrocks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/punkrocks.png) (~2k)
 
 
 ## Cats
@@ -68,6 +67,14 @@ All 9 990 cool cats from 24px series.  Download ![](i/coolcats-strip.png)  [**co
 ## Dogs
 
 25 Dodge (Shiba Inu) Punk series.  Download ![](i/dodge-strip.png)  [**dodge.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/dodge.png) (~2k).
+
+
+
+## Rocks
+
+All 100 stones from the 24px rocks series. Download  ![](i/rocks-strip.png)  [**rocks.png**](collection/rocks.png) (~20k). Yes, freebie stones!
+
+All 10 stones from the 24px punk rocks series. Download ![](i/punkrocks-strip.png)  [**punkrocks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/punkrocks.png) (~2k)
 
 
 ## Tulips
