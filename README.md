@@ -1,6 +1,6 @@
 
 
-# Awesome 24px - Pixel Art Collections in the 24x24 Format
+# Awesome 24px (and 28px) - Pixel Art Collections in the 24x24 (and 28x28) Format
 
 
 ## Punks
