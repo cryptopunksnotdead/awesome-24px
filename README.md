@@ -74,6 +74,23 @@ All Star Collections / Selections
 
 All 9 900 cool cats from 24px series.  Download ![](i/coolcats-strip.png)  [**coolcats.png**](collection/coolcats.png) (~2.5 MB).
 
+<!-- break -->
+
+All Star Collections / Selections
+
+- 569 Mohawk series.  Download ![](i/coolcats_mohawks-strip.png)  [**coolcats_mohawks.png**](collection/coolcats_mohawks.png) (~130k).
+- 283 Ninja series.   Download ![](i/coolcats_ninjas-strip.png)  [**coolcats_ninjas.png**](collection/coolcats_ninjas.png) (~60k).
+- 221 TV Head series. Download ![](i/coolcats_tvheads-strip.png)  [**coolcats_tvheads.png**](collection/coolcats_tvheads.png) (~60k).
+- 187 Pirate series.  Download ![](i/coolcats_pirates-strip.png)  [**coolcats_pirates.png**](collection/coolcats_pirates.png) (~40k).
+- 160 Unicorn series.  Download ![](i/coolcats_unicorns-strip.png)  [**coolcats_unicorns.png**](collection/coolcats_unicorns.png) (~40k).
+- 51 Dragon series.  Download ![](i/coolcats_dragons-strip.png)  [**coolcats_dragons.png**](collection/coolcats_dragons.png) (~8k).
+- 51 Frog series.     Download ![](i/coolcats_frogs-strip.png)  [**coolcats_frogs.png**](collection/coolcats_frogs.png) (~8k).
+
+
+
+<!-- break -->
+
+
 All 25 440 mooncats from the MoonCatRescue series (placed in a 24x24 canvas). Download ![](i/mooncatrescue-strip.png)  [**mooncatrescue.png**](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/blob/master/i/mooncatrescue.png) (~6 MB) ++
 Bonus:  [**mooncatrescue.csv**](https://github.com/cryptocopycats/mooncatrescue)
 attribute rarity & popularity dataset.
