@@ -54,7 +54,7 @@ Punkverse
 All 9 900 bored apes from the weape24 series¹.  Download ![](i/boredapes-strip.png)  [**boredapes.png**](collection/boredapes.png) (~4.2 MB).
 
 
-¹: Note - The bored apes from the weape24 series are in the original 28x28 format.
+¹: Note - The bored apes from the weape24 series are in the original ~24x24~ 28x28 format.
 
 
 ## Cats
