@@ -3,9 +3,6 @@
 # Awesome 24px (and 28px¹) - Pixel Art Collections in the 24x24 (and 28x28¹) Format
 
 
-¹:  The bored apes from the weape24 series are in the original 28x28 format.
-
-
 
 ## Punks
 
@@ -54,8 +51,10 @@ Punkverse
 
 ## Apes
 
-All 9 900 bored apes from the weape24 series.  Download ![](i/boredapes-strip.png)  [**boredapes.png**](collection/boredapes.png) (~3.5 MB).
+All 9 900 bored apes from the weape24 series¹.  Download ![](i/boredapes-strip.png)  [**boredapes.png**](collection/boredapes.png) (~4.2 MB).
 
+
+¹: Note - The bored apes from the weape24 series are in the original 28x28 format.
 
 
 ## Cats
