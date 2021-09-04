@@ -51,7 +51,7 @@ Punkverse
 
 ## Apes
 
-All 9 900 bored apes from the weape24 series¹.  Download ![](i/boredapes-strip.png)  [**boredapes.png**](collection/boredapes.png) (~4.2 MB).
+All 9 900 bored apes from the weape24 series¹.  Download ![](i/boredapes-strip.png)  [**boredapes.png**](collection/boredapes.png) (~4.2 MB).  ++ Bonus: [**boredapes.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/boredapes/) attribute rarity & popularity dataset.
 
 <!-- break -->
 
