@@ -1,6 +1,6 @@
 
 
-# Awesome 24px (and 28px¹) - Pixel Art Collections in the 24x24 (and 28x28¹) Format
+# Awesome 24px (and 28px¹) Downloads - Free Pixel Art Collections in the 24x24 (and 28x28¹) Format
 
 
 
