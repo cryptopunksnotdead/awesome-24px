@@ -1,6 +1,10 @@
 
 
-# Awesome 24px (and 28px) - Pixel Art Collections in the 24x24 (and 28x28) Format
+# Awesome 24px (and 28px¹) - Pixel Art Collections in the 24x24 (and 28x28¹) Format
+
+
+¹:  The bored apes from the weape24 series are in the original 28x28 format.
+
 
 
 ## Punks
