@@ -16,11 +16,11 @@ All 10 000 punks from the original LarvaLabs series.     Download ![](i/punks-st
 
 All Star Collections / Selections
 
-- 9 Alien series.    Download ![](i/aliens-strip.png)  [**aliens.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/aliens.png) (~1k).
-- 24 Ape series.      Download ![](i/apes-strip.png)  [**apes.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/apes.png) (~2k).
-- 88 Zombies series.      Download ![](i/zombies-strip.png)  [**zombies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/zombies.png) (~5k).
-- 564 Blondies series.      Download ![](i/blondies-strip.png)  [**blondies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/blondies.png) (~30k).
 - 1458 Mohawk Nation series.    Download ![](i/mohawks-strip.png)  [**mohawks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/mohawks.png) (~80k).
+- 564 Blondies series.      Download ![](i/blondies-strip.png)  [**blondies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/blondies.png) (~30k).
+- 88 Zombies series.      Download ![](i/zombies-strip.png)  [**zombies.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/zombies.png) (~5k).
+- 24 Ape series.      Download ![](i/apes-strip.png)  [**apes.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/apes.png) (~2k).
+- 9 Alien series.    Download ![](i/aliens-strip.png)  [**aliens.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/aliens.png) (~1k).
 
 
 <!-- break -->
