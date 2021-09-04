@@ -62,7 +62,7 @@ All Star Collections / Selections
 - 257 Neon Glow series.   Download ![](i/boredapes_neon_glow-strip.png)  [**boredapes_neon_glow.png**](collection/boredapes_neon_glow.png) (~100k).
 - 58 Stars and Stripes series.  Download ![](i/boredapes_stars_and_stripes-strip.png)  [**boredapes_stars_and_stripes.png**](collection/boredapes_stars_and_stripes.png) (~20k).
 - 52 Acid series.  Download ![](i/boredapes_acid-strip.png)  [**boredapes_acid.png**](collection/boredapes_acid.png) (~20k).
-- 35 Gold (Aur) series.  Download ![](i/boredapes_au-strip.png)  [**boredapes_au.png**](collection/boredapes_au.png) (~20k).
+- 35 Gold (Aurum) series.  Download ![](i/boredapes_au-strip.png)  [**boredapes_au.png**](collection/boredapes_au.png) (~20k).
 
 
 
