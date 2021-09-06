@@ -72,7 +72,7 @@ All Star Collections / Selections
 
 ## Cats
 
-All 9 900 cool cats from 24px series.  Download ![](i/coolcats-strip.png)  [**coolcats.png**](collection/coolcats.png) (~2.5 MB).
+All 9 900 cool cats from 24px series.  Download ![](i/coolcats-strip.png)  [**coolcats.png**](collection/coolcats.png) (~2.5 MB).  ++ Bonus: [**coolcats.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/coolcats/) attribute rarity & popularity dataset.
 
 <!-- break -->
 
