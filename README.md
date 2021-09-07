@@ -1,8 +1,5 @@
 
 
-# Awesome 24px (and 28px¹) Downloads - Free Pixel Art Collections in the 24x24 (and 28x28¹) Format
-
-
 [Punks](#punks) ·
 [Apes](#apes) ·
 [Cats](#cats) ·
@@ -11,6 +8,9 @@
 [Rocks](#rocks)  ·
 [Tulips](#tulips)
 
+
+
+# Awesome 24px (and 28px¹) Downloads - Free Pixel Art Collections in the 24x24 (and 28x28¹) Format
 
 
 ## Punks
