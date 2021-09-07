@@ -104,6 +104,13 @@ attribute rarity & popularity dataset.
 
 
 
+## Penguins
+
+1000 pudgy penguins from the 24px series.  Download ![](i/pudgypenguins-strip.png)  [**pudgypenguins.png**](collection/pudgypenguins.png) (~270k).
+
+
+
+
 ## Rocks
 
 All 100 stones from the 24px rocks series. Download  ![](i/rocks-strip.png)  [**rocks.png**](collection/rocks.png) (~20k). Yes, freebie stones!
