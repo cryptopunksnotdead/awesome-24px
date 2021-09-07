@@ -3,10 +3,19 @@
 # Awesome 24px (and 28px¹) Downloads - Free Pixel Art Collections in the 24x24 (and 28x28¹) Format
 
 
+[Punks](#punks) ·
+[Apes](#apes) ·
+[Cats](#cats) ·
+[Penguins](#penguins)  ·
+[Dogs](#dogs)  ·
+[Rocks](#rocks)  ·
+[Tulips](#tulips)
+
+
 
 ## Punks
 
-All 10 000 punks from the original LarvaLabs series.     Download ![](i/punks-strip.png) [**punks.png**](https://github.com/larvalabs/cryptopunks/blob/master/punks.png) (~800k) ++ Bonus: [**punks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/original/) attribute rarity & popularity dataset.
+All 10 000 Punks from the original LarvaLabs series.     Download ![](i/punks-strip.png) [**punks.png**](https://github.com/larvalabs/cryptopunks/blob/master/punks.png) (~800k) ++ Bonus: [**punks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/original/) attribute rarity & popularity dataset.
 
 - Grayscale series.   Download ![](i/punks_grayscale-strip.png) [**punks_grayscale.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/grayscale/i/punks_grayscale.png) (~800k).
 - Sepia Vintage series.    Download ![](i/punks_sepia-strip.png)  [**punks_sepia.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/grayscale/i/punks_sepia.png) (~800k).
@@ -74,7 +83,7 @@ All Star Collections / Selections
 
 ## Cats
 
-All 9 900 cool cats from 24px series.  Download ![](i/coolcats-strip.png)  [**coolcats.png**](collection/coolcats.png) (~2.5 MB).  ++ Bonus: [**coolcats.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/coolcats/) attribute rarity & popularity dataset.
+All 9 900 Cool Cats from 24px series.  Download ![](i/coolcats-strip.png)  [**coolcats.png**](collection/coolcats.png) (~2.5 MB).  ++ Bonus: [**coolcats.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/coolcats/) attribute rarity & popularity dataset.
 
 <!-- break -->
 
@@ -93,7 +102,7 @@ All Star Collections / Selections
 <!-- break -->
 
 
-All 25 440 mooncats from the MoonCatRescue series (placed in a 24x24 canvas). Download ![](i/mooncatrescue-strip.png)  [**mooncatrescue.png**](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/blob/master/i/mooncatrescue.png) (~6 MB) ++
+All 25 440 Moon Cats from the Moon Cat Rescue series (placed in a 24x24 canvas). Download ![](i/mooncatrescue-strip.png)  [**mooncatrescue.png**](https://github.com/cryptocopycats/awesome-mooncatrescue-bubble/blob/master/i/mooncatrescue.png) (~6 MB) ++
 Bonus:  [**mooncatrescue.csv**](https://github.com/cryptocopycats/mooncatrescue)
 attribute rarity & popularity dataset.
 
@@ -113,13 +122,12 @@ attribute rarity & popularity dataset.
 
 ## Rocks
 
-All 100 stones from the 24px rocks series. Download  ![](i/rocks-strip.png)  [**rocks.png**](collection/rocks.png) (~20k). Yes, freebie stones!
+All 100 Stones from the 24px rocks series. Download  ![](i/rocks-strip.png)  [**rocks.png**](collection/rocks.png) (~20k).
 
-All 10 stones from the 24px punk rocks series. Download ![](i/punkrocks-strip.png)  [**punkrocks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/punkrocks.png) (~2k)
+All 10 Stones from the 24px punk rocks series. Download ![](i/punkrocks-strip.png)  [**punkrocks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/punkrocks.png) (~2k).
 
 
 ## Tulips
 
 101 Tulips series. Download ![](i/tulips-strip.png) [**tulips.png**](collection/tulips.png) (~10k).
-
 
