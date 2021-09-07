@@ -53,7 +53,7 @@ Punkverse
 
 ## Apes
 
-All 9 900 bored apes from the weape24 series¹.  Download ![](i/boredapes-strip.png)  [**boredapes.png**](collection/boredapes.png) (~4.2 MB).  ++ Bonus: [**boredapes.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/boredapes/) attribute rarity & popularity dataset.
+All 9 900 Bored Apes from the We Ape 24 series¹.  Download ![](i/boredapes-strip.png)  [**boredapes.png**](collection/boredapes.png) (~4.2 MB).  ++ Bonus: [**boredapes.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/boredapes/) attribute rarity & popularity dataset.
 
 <!-- break -->
 
@@ -98,15 +98,15 @@ Bonus:  [**mooncatrescue.csv**](https://github.com/cryptocopycats/mooncatrescue)
 attribute rarity & popularity dataset.
 
 
+## Penguins
+
+1000 Pudgy Penguins from the 24px series.  Download ![](i/pudgypenguins-strip.png)  [**pudgypenguins.png**](collection/pudgypenguins.png) (~270k).
+
+
+
 ## Dogs
 
 25 Dodge (Shiba Inu) Punk series.  Download ![](i/dodge-strip.png)  [**dodge.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/dodge.png) (~2k).
-
-
-
-## Penguins
-
-1000 pudgy penguins from the 24px series.  Download ![](i/pudgypenguins-strip.png)  [**pudgypenguins.png**](collection/pudgypenguins.png) (~270k).
 
 
 
