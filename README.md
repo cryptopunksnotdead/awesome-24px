@@ -36,6 +36,12 @@ All Star Collections / Selections
 
 Punkverse
 
+
+10 000 Gold(en) Punk series.    Download ![](i/goldenpunks-strip.png)   [**goldenpunks.png**](collection/goldenpunks.png) (~750k)
+
+10 000 Halloween Punk series.  Download ![](i/halloweenpunks-strip.png)   [**halloweenpunks.png**](collection/halloweenpunks.png) (~750k)
+
+
 1000 Front-Facing Punk series.    Download ![](i/frontpunks-strip.png)   [**frontpunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/frontpunks.png) (~80k) ++  Bonus: [**frontpunks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/front/) attribute rarity & popularity dataset.
 
 1000 More Punks series. New attributes, new species.     Download ![](i/morepunks-strip.png) [**morepunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/morepunks.png) (~200k) ++  Bonus: [**morepunks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/more/) attribute rarity & popularity dataset.
