@@ -15,11 +15,11 @@
 
 ## Punks
 
-All 10 000 Punks from the original LarvaLabs series.     Download ![](i/punks-strip.png) [**punks.png**](https://github.com/larvalabs/cryptopunks/blob/master/punks.png) (~800k) ++ Bonus: [**punks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/original/) attribute rarity & popularity dataset.
+All 10 000 Punks from the original LarvaLabs series.     Download ![](i/punks-strip.png) [**punks.png**](collection/punks.png) (~800k) ++ Bonus: [**punks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/original/) attribute rarity & popularity dataset.
 
 - Grayscale series.   Download ![](i/punks_grayscale-strip.png) [**punks_grayscale.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/grayscale/i/punks_grayscale.png) (~800k).
 - Sepia Vintage series.    Download ![](i/punks_sepia-strip.png)  [**punks_sepia.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/grayscale/i/punks_sepia.png) (~800k).
-- Phunks (Looking-Left) series.   Download   ![](i/phunks-strip.png) [**phunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/phunks.png) (~800k).
+- Phunks (Looking-Left) series.   Download   ![](i/phunks-strip.png) [**phunks.png**](collection/phunks.png) (~800k).
 
 <!-- break -->
 
@@ -42,14 +42,14 @@ Punkverse
 10 000 Halloween Punk series.  Download ![](i/halloweenpunks-strip.png)   [**halloweenpunks.png**](collection/halloweenpunks.png) (~750k)
 
 
-1000 Front-Facing Punk series.    Download ![](i/frontpunks-strip.png)   [**frontpunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/frontpunks.png) (~80k) ++  Bonus: [**frontpunks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/front/) attribute rarity & popularity dataset.
+1000 Front-Facing Punk series.    Download ![](i/frontpunks-strip.png)   [**frontpunks.png**](collection/frontpunks.png) (~80k) ++  Bonus: [**frontpunks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/front/) attribute rarity & popularity dataset.
 
-1000 More Punks series. New attributes, new species.     Download ![](i/morepunks-strip.png) [**morepunks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/morepunks.png) (~200k) ++  Bonus: [**morepunks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/more/) attribute rarity & popularity dataset.
+1000 More Punks series. New attributes, new species.     Download ![](i/morepunks-strip.png) [**morepunks.png**](collection/morepunks.png) (~200k) ++  Bonus: [**morepunks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/more/) attribute rarity & popularity dataset.
 
 
 10 000 Punkette series.  Download ![](i/punkettes-strip.png)   [**punkettes.png**](collection/punkettes.png) (~700k)
 
-10 000 Expansion Punk series.     Download ![](i/expansionpunks-strip.png) [**expansionpunks.png**](https://expansionpunks.com/provenance/expansionpunks.png) (~800k) ++  Bonus:  [**expansionpunks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/expansion/) attribute rarity & popularity  dataset.
+10 000 Expansion Punk series.     Download ![](i/expansionpunks-strip.png) [**expansionpunks.png**](collection/expansionpunks.png) (~800k) ++  Bonus:  [**expansionpunks.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/expansion/) attribute rarity & popularity  dataset.
 
 10 000 Avalanche Punks series.    Download ![](i/avalanchepunks-strip.png) [**avalanchepunks.png**](collection/avalanchepunks.png) (~600k).
 
@@ -142,7 +142,7 @@ attribute rarity & popularity dataset.
 
 All 100 Stones from the 24px rocks series. Download  ![](i/rocks-strip.png)  [**rocks.png**](collection/rocks.png) (~20k).
 
-All 10 Stones from the 24px punk rocks series. Download ![](i/punkrocks-strip.png)  [**punkrocks.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/punkrocks.png) (~2k).
+All 10 Stones from the 24px punk rocks series. Download ![](i/punkrocks-strip.png)  [**punkrocks.png**](collection/punkrocks.png) (~2k).
 
 
 ## Tulips
