@@ -59,7 +59,7 @@ Punkverse
 
 
 
-100 Alien Clan series.     Download ![](i/alienclan-strip.png) [**alienclan.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/alienclan.png) (~10k)  ++    Bonus:  [**alienclan.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/alienclan/) attribute rarity & popularity dataset.
+100 Alien Clan series.     Download ![](i/alienclan-strip.png) [**alienclan.png**](collection/alienclan.png) (~10k)  ++    Bonus:  [**alienclan.csv**](https://github.com/cryptopunksnotdead/punks.attributes/tree/master/alienclan/) attribute rarity & popularity dataset.
 
 
 40 All Star Cool Blue Aliens (Original+More+Expansion) series.  Download ![](i/aliens_blue-strip.png)  [**aliens.png**](https://github.com/cryptopunksnotdead/cryptopunks/blob/master/aliens/i/aliens-randomized.png)  (~5k).
