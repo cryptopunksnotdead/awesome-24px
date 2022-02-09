@@ -133,7 +133,7 @@ attribute rarity & popularity dataset.
 
 ## Dogs
 
-25 Dodge (Shiba Inu) Punk series.  Download ![](i/dodge-strip.png)  [**dodge.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/dodge.png) (~2k).
+25 Doge (Shiba Inu) Punk series.  Download ![](i/doge-strip.png)  [**doge.png**](https://github.com/cryptopunksnotdead/programming-cryptopunks/blob/master/i/doge.png) (~2k).
 
 
 
